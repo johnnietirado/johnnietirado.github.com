@@ -1,2 +1,2 @@
-# johnnietirado.github.com
+# Página oficial de Johnnie Tirado
 Mi página web
